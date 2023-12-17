@@ -1,0 +1,1 @@
+smoothedImg = medfilt2(I,[30 30]);

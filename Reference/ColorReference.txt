@@ -1,0 +1,8 @@
+1. Image in Base Form --> Black Background
+
+2. Edge Detection --> White Background
+
+3. Segmentation --> Segment Objects Filled with White
+ 
+4. Morphological Operations --> Image in Base Form
+

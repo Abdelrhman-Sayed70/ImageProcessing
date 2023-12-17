@@ -1,0 +1,3 @@
+Segmentation done using [L, num] = bwlabel(I)
+- objects must filled with white
+- if u want to segment background, use edge detection [white background] then invert

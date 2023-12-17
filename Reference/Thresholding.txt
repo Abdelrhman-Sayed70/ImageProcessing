@@ -1,0 +1,6 @@
+bw = im2bw(img, refThresh);
+
+-----------------------------
+ref threshold can be one of 2:
+refThresh can be user input.
+refThresh = graythresh(img).

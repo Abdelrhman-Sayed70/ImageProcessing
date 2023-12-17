@@ -1,0 +1,2 @@
+1. choose needed image 
+2. write in the command window: impixelinfo

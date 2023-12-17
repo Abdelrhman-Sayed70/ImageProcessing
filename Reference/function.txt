@@ -1,0 +1,5 @@
+function [res] = fun(img1, img2)
+
+res = img1 + img2;
+
+end

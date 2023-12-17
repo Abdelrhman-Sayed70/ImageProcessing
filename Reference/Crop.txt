@@ -1,0 +1,5 @@
+% crop image 
+[h, w, d] = size(I);
+H = h / 4;
+croppedI = imcrop(thrI, [0 0 w H]);
+figure, imshow(croppedI), title('cropped image');
